@@ -1,0 +1,7 @@
+.boxColor{
+    border: 1px solid #ccc;
+    background-color: whitesmoke;
+    border-radius: 25px;
+    text-align: center;
+    margin:5px;
+}

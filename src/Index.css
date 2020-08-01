@@ -1,0 +1,42 @@
+.InputGroup{
+    padding: 20px;
+    text-align: center;
+}
+input{
+  border: 1px solid #ccc;
+  height: 34px;
+  line-height: 2px;
+  width:50px;
+  text-align: center;
+}
+
+.align{
+  text-align: center;
+  padding:10px;
+}
+.btn-Zoom{
+  margin: 20px;
+}
+.btn1{
+  border-radius: 4px 0px 0px 4px;
+  margin-bottom: 3px;
+}
+.btn2{
+  border-radius: 0px 4px 4px 0px;
+  margin-bottom: 3px;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
